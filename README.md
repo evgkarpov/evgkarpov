@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<image src="https://octodex.github.com/images/surftocat.png" width="300"/>
+
 <!--
 **evgkarpov/evgkarpov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
